@@ -5,7 +5,7 @@
 - 🔭 Hoje trabalho como desenvolvedor jr em liguagem Json e front end
 <br>
 <br>
-- 🌱 Estudando Atualmente JavaScript, HTML e CSS
+- 🌱 Estudando Atualmente JS, HTML e CSS
 </div><br>
 
 
