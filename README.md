@@ -8,8 +8,6 @@
 - 🌱 Estudando Atualmente JS, HTML e CSS
 </div><br>
 
-##
-
 <div>
   <a href="https://github.com/AlvezzzD">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=AlvezzzD&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
