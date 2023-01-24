@@ -2,12 +2,13 @@
 <br>
 
 <div>
-- 🔭 Hoje trabalho como desenvolvedor jr em liguagem Json e front end
+- 🔭 Hoje trabalho como desenvolvedor jr em liguagem Json e Front End
 <br>
 <br>
 - 🌱 Estudando Atualmente JS, HTML e CSS
 </div><br>
 
+##
 
 <div>
   <a href="https://github.com/AlvezzzD">
