@@ -2,7 +2,7 @@
 <br>
 
 <div>
-- 🔭 Hoje trabalho como desenvolvedor jr em liguagem Json e Front End
+- 🔭 Hoje trabalho como Desenvolvedor Jr em liguagem Json e Front End em JavaScript
 <br>
 <br>
 - 🌱 Estudando Atualmente JS, HTML e CSS
