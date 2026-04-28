@@ -41,7 +41,7 @@ Atualmente estou evoluindo em automação de testes, utilizando ferramentas mode
 
 ## 📂 Projetos
 
-🔹 Automação de testes E2E com CodeceptJS  
+🔹 Automação de testes E2E com CodeceptJS e Cypress
 🔹 (Em desenvolvimento) Automação de testes com Playwright  
 
 ---
