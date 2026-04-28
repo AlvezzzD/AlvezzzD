@@ -1,29 +1,61 @@
-<h1 align="center">Olá, me chamo Matheus Alves 👋😁</h1>
+# 👨‍💻 Matheus Alves
 
-<br>
+## 💼 Analista de Sistemas | QA 
 
-<div>
-💻 <strong>Analista de Sistemas / QA </strong>  
+Sou profissional de Qualidade de Software com experiência em testes manuais e validação de APIs, atuando na garantia da qualidade e confiabilidade de aplicações web.
 
-🔍 Tenho experiência em testes de software, atuando com testes manuais, validação de APIs e automação de testes.  
-Focado em garantir a qualidade, confiabilidade e boa experiência do usuário em aplicações web.
+Tenho vivência na identificação de bugs, execução de testes funcionais, regressivos e exploratórios, além de experiência com testes de API utilizando Postman e manipulação de JSON.
 
-<br><br>
+Atualmente estou evoluindo em automação de testes, utilizando ferramentas modernas como Playwright, Cypress e CodeceptJS.
 
-🚀 Atualmente estou evoluindo em automação de testes com Playwright e aprimorando meus conhecimentos em QA.
+---
 
-🛠️ Tecnologias e ferramentas:
-- Testes manuais (funcional, regressivo, exploratório)
-- Testes de API (Postman, JSON)
-- Automação de testes (Cypress, CodeceptJS, Playwright)
-- JavaScript
-- Git e GitHub
+## 🚀 Skills
 
-<br>
-📌 Projetos:
-- Automação de testes E2E com CodeceptJS e Cypress <br>
-- Em desenvolvimento: projeto com Playwright
-<br>
+🔹 Testes de Software  
+- Testes funcionais  
+- Testes regressivos  
+- Testes exploratórios  
+
+🔹 Testes de API  
+- Postman  
+- Validação de respostas (JSON)  
+- Testes de endpoints (GET, POST)
+
+🔹 Automação de Testes  
+- Cypress  
+- CodeceptJS  
+- Playwright (em evolução)
+
+🔹 Tecnologias  
+- JavaScript  
+- Git e GitHub  
+
+---
+
+## 📌 Experiência
+
+💼 Experiência prática com testes em ambiente real (3+ anos), atuando na validação de sistemas web e garantindo a qualidade das entregas.
+
+---
+
+## 📂 Projetos
+
+🔹 Automação de testes E2E com CodeceptJS  
+🔹 (Em desenvolvimento) Automação de testes com Playwright  
+
+---
+
+## 🌍 Inglês
+
+📈 Nível em evolução (focado em leitura técnica e comunicação para área de QA)
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/matheus-alves-da-silva/
+- Email: Matheuss.aalves17@gmail.com
 
 <br>
 
