@@ -20,6 +20,11 @@ Focado em garantir a qualidade, confiabilidade e boa experiência do usuário em
 - Git e GitHub
 
 <br>
+📌 Projetos:
+- Automação de testes E2E com CodeceptJS
+- Em desenvolvimento: projeto com Playwright
+
+<br>
 
 <div style="display: inline_block">
   <img align="center" alt="JavaScript" height="30" width="40"
