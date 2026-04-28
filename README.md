@@ -3,15 +3,21 @@
 <br>
 
 <div>
-💻 <strong>Analista de Sistemas / QA em início de carreira</strong>  
+💻 <strong>Analista de Sistemas / QA </strong>  
 
-🔍 Tenho experiência com <strong>testes de software</strong>, <strong>automação básica</strong> e <strong>qualidade de aplicações</strong>, sempre buscando melhorar a experiência do usuário e a confiabilidade dos sistemas.
+🔍 Tenho experiência em testes de software, atuando com testes manuais, validação de APIs e automação de testes.  
+Focado em garantir a qualidade, confiabilidade e boa experiência do usuário em aplicações web.
 
 <br><br>
 
-📚 Atualmente estou estudando <strong>QA</strong>, <strong>automação de testes</strong> e <strong>UX</strong>, com foco em qualidade de software.  
-Possuo conhecimentos em <strong>desenvolvimento com JavaScript</strong>, utilizando <strong>Cypress</strong> e <strong>CodeceptJS</strong>, além de experiência com <strong>JSON</strong>.
-</div>
+🚀 Atualmente estou evoluindo em automação de testes com Playwright e aprimorando meus conhecimentos em QA.
+
+🛠️ Tecnologias e ferramentas:
+- Testes manuais (funcional, regressivo, exploratório)
+- Testes de API (Postman, JSON)
+- Automação de testes (Cypress, CodeceptJS, Playwright)
+- JavaScript
+- Git e GitHub
 
 <br>
 
