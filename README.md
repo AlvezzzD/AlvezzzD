@@ -76,13 +76,10 @@ Atualmente estou evoluindo em automação de testes, utilizando ferramentas mode
   <a href="https://instagram.com/__alvezzz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://discord.com/users/481267789102055424" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <a href="mailto:theusluck@gmail.com">
+  <a href="mailto:matheuss.aalves17@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/matheus-a-a3a258138/" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-a-a3a258138/](https://www.linkedin.com/in/matheus-alves-da-silva/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
