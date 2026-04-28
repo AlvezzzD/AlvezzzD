@@ -21,7 +21,7 @@ Focado em garantir a qualidade, confiabilidade e boa experiência do usuário em
 
 <br>
 📌 Projetos:
-- Automação de testes E2E com CodeceptJS
+- Automação de testes E2E com CodeceptJS e Cypress
 - Em desenvolvimento: projeto com Playwright
 <br>
 
